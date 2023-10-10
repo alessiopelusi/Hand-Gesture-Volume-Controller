@@ -1,4 +1,4 @@
-# HandTrackerVolumeController
+# HandTrackingVolumeController
 Developed a Computer Volume Control System in Python based on Hand Gestures, making interaction with the device more intuitive and engaging.
 
 • Implemented the Mediapipe library to detect and track Hand Movements.
