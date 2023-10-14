@@ -32,6 +32,8 @@ The module is reusable and can be applied to other projects involving hand track
 
 4 ● The script will continuously adjust the system's audio volume based on the distance between your thumb and index finger. The volume level will be displayed on the screen as a percentage.
 
+![dsa](https://github.com/alessiopelusi/Hand-Tracking-Volume-Controller/assets/130958426/2c4de468-3d7c-4266-9a7f-22a0458577c8)
+
 ● Note
 
 This project is designed to work on Windows due to its reliance on the Windows Core Audio API (pycaw).
