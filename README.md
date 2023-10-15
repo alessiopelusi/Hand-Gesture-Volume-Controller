@@ -1,4 +1,4 @@
-# Hand Tracking Volume Controller
+# Hand Gesture Volume Controller
 This Python project, allows you to control the system's audio volume by using hand gestures. It utilizes computer vision techniques with OpenCV and the MediaPipe library to detect and track hand movements in real-time, converting specific gestures into volume level adjustments.
 
 ● Project Components
